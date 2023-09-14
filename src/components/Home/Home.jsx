@@ -38,7 +38,7 @@ const Home = () => {
     }
     return (
         <div className="flex flex-col justify-center md:flex-row  md:justify-between">
-            <div className=" w-full md:w-2/3 grid grid-cols-1 lg:grid-cols-2 gap-7">
+            <div className=" w-full md:w-[80%] grid grid-cols-1 lg:grid-cols-2 gap-7">
                     {
                         player.map(player =>
                             <div key={player.id} className="card w-full bg-base-100 shadow-xl">
@@ -60,7 +60,7 @@ const Home = () => {
                             )
                     }
             </div>
-            <div className=" mx-auto md:mx-10 w-full  md:w-1/3">
+            <div className=" mx-auto md:mx-4 lg:mx-10 w-full  md:w-[20%]">
                 <Cart remain={remain} total={total} selected={selected} ></Cart>
             </div>
         </div>
