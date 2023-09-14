@@ -2,8 +2,8 @@
 const Cart = ({selected, total, remain}) => {
     console.log(total);
     return (
-        <div>
-            <div>
+        <div className=" mt-5 md:mt-0 md:fixed">
+            <div className="">
             <h1 className=" text-2xl text-white">Total Player Taken: {selected.length} </h1>
             <h1 className=" text-3xl text-white py-3">Total: {total} TK </h1>
             <h1 className=" text-3xl text-white py-3">Remain: {remain} TK </h1>

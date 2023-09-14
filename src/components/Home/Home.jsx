@@ -37,11 +37,11 @@ const Home = () => {
         }
     }
     return (
-        <div className="flex justify-between">
-            <div className=" w-2/3 flex flex-wrap gap-7">
+        <div className="flex flex-col justify-center md:flex-row  md:justify-between">
+            <div className=" w-full md:w-2/3 grid grid-cols-1 lg:grid-cols-2 gap-7">
                     {
                         player.map(player =>
-                            <div key={player.id} className="card w-96 bg-base-100 shadow-xl">
+                            <div key={player.id} className="card w-full bg-base-100 shadow-xl">
                     <figure><img src="https://i.ibb.co/vxD7p2s/Shakib-Al-Hasan-1.jpg" alt="Player" /></figure>
                     <div className="card-body">
                         <h2 className="card-title">
@@ -60,7 +60,7 @@ const Home = () => {
                             )
                     }
             </div>
-            <div className=" w-1/3">
+            <div className=" mx-auto md:mx-10 w-full  md:w-1/3">
                 <Cart remain={remain} total={total} selected={selected} ></Cart>
             </div>
         </div>
