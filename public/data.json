@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "salary": 1000000,
+      "country": "England",
+      "role": "Batsman",
+      "age": 28,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 3,
+      "name": "Rahul Sharma",
+      "salary": 800000,
+      "country": "India",
+      "role": "All-Rounder",
+      "age": 26,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 6,
+      "name": "Sachin Patel",
+      "salary": 1100000,
+      "country": "India",
+      "role": "Batsman",
+      "age": 32,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 8,
+      "name": "Sophie Taylor",
+      "salary": 880000,
+      "country": "England",
+      "role": "Bowler",
+      "age": 28,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 11,
+      "name": "Emily Davis",
+      "salary": 920000,
+      "country": "Australia",
+      "role": "Bowler",
+      "age": 27,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 13,
+      "name": "Shahid Khan",
+      "salary": 940000,
+      "country": "Pakistan",
+      "role": "All-Rounder",
+      "age": 28,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 15,
+      "name": "Vijay Patel",
+      "salary": 860000,
+      "country": "India",
+      "role": "Bowler",
+      "age": 28,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 16,
+      "name": "Tom Wilson",
+      "salary": 900000,
+      "country": "England",
+      "role": "All-Rounder",
+      "age": 31,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 18,
+      "name": "Daniel Lee",
+      "salary": 950000,
+      "country": "Australia",
+      "role": "Bowler",
+      "age": 29,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 19,
+      "name": "Rajesh Sharma",
+      "salary": 1050000,
+      "country": "India",
+      "role": "Batsman",
+      "age": 30,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 20,
+      "name": "Shakib Al Hasan",
+      "salary": 1200000,
+      "country": "Bangladesh",
+      "role": "All-Rounder",
+      "age": 34,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 21,
+      "name": "Mehedi Hasan",
+      "salary": 850000,
+      "country": "Bangladesh",
+      "role": "Bowler",
+      "age": 23,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 22,
+      "name": "Tamim Iqbal",
+      "salary": 1100000,
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "age": 32,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 23,
+      "name": "Mushfiqur Rahim",
+      "salary": 950000,
+      "country": "Bangladesh",
+      "role": "Wicketkeeper",
+      "age": 33,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 24,
+      "name": "Mustafizur Rahman",
+      "salary": 900000,
+      "country": "Bangladesh",
+      "role": "Bowler",
+      "age": 25,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 25,
+      "name": "Mahmudullah Riyad",
+      "salary": 850000,
+      "country": "Bangladesh",
+      "role": "All-Rounder",
+      "age": 35,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 26,
+      "name": "Soumya Sarkar",
+      "salary": 800000,
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "age": 29,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 27,
+      "name": "Taskin Ahmed",
+      "salary": 870000,
+      "country": "Bangladesh",
+      "role": "Bowler",
+      "age": 27,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 28,
+      "name": "Liton Das",
+      "salary": 820000,
+      "country": "Bangladesh",
+      "role": "Wicketkeeper-Batsman",
+      "age": 27,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    },
+    {
+      "id": 29,
+      "name": "Najmul Hossain Shanto",
+      "salary": 790000,
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "age": 23,
+      "gender": "Male",
+      "image": "placeholder_image_url"
+    }
+  ]
+  
